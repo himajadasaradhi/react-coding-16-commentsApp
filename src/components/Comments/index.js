@@ -52,7 +52,7 @@ class Comments extends Component {
       this.setState(prevState => ({
         commentsList: [...prevState.commentsList, newComment],
         nameInput: '',
-        commentInput: ' ',
+        commentInput: '',
       }))
     } else if (nameInput === '' && commentInput === '') {
       alert('Please enter Details')

@@ -1,0 +1,80 @@
+/* Write your CSS here */
+.textarea {
+  height: 100px;
+  width: 200px;
+  margin: 10px;
+  border-color: #dee0e3;
+  border-style: solid;
+  border-radius: 3px;
+  border-width: 2px;
+  font-family: 'roboto';
+  padding: 10px;
+}
+input {
+  width: 200px;
+  margin: 10px;
+  height: 30px;
+  border-color: #dee0e3;
+  border-style: solid;
+  border-radius: 3px;
+  border-width: 2px;
+  font-family: 'roboto';
+  padding: 10px;
+}
+.container {
+  margin-left: 50px;
+  font-family: 'roboto';
+  width: 70%;
+}
+label {
+  font-size: 12px;
+  color: #475569;
+  font-weight: 600;
+}
+.comments-img {
+  height: 200px;
+  width: 250px;
+  margin-left: 100px;
+}
+.label-img {
+  display: flex;
+}
+button {
+  color: white;
+  background-color: #0284c7;
+  border: none;
+  height: 30px;
+  border-radius: 5px;
+  margin-left: 10px;
+  width: 100px;
+  font-size: 12px;
+  cursor: pointer;
+}
+hr {
+  color: #dee0e3;
+  width: 90%;
+  margin-left: 0;
+  border-width: 1px;
+  border-style: solid;
+}
+.comments-container {
+  display: flex;
+}
+.comments-count {
+  background-color: #0284c7;
+  width: 25px;
+  height: 25px;
+  color: white;
+  text-align: center;
+  border-radius: 5px;
+  padding: 3px;
+  margin-right: 5px;
+}
+.comments {
+  font-family: 'roboto';
+  color: #475569;
+  font-weight: 500;
+}
+ul {
+  list-style-type: none;
+}

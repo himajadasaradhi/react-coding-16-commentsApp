@@ -1,0 +1,142 @@
+.amber {
+  background-color: #f59e0b;
+  width: 35px;
+  height: 35px;
+  border-radius: 20px;
+  color: white;
+  padding-right: 5px;
+  padding-left: 12px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  margin-top: 1;
+}
+
+.blue {
+  background-color: #0b69ff;
+  width: 35px;
+  height: 35px;
+  border-radius: 20px;
+  padding-right: 5px;
+  padding-left: 12px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  color: white;
+  margin-top: 1;
+}
+
+.orange {
+  background-color: #f97316;
+  width: 35px;
+  height: 35px;
+  border-radius: 20px;
+  padding-right: 5px;
+  padding-left: 12px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  color: white;
+  margin-top: 1;
+}
+
+.emerald {
+  background-color: #10b981;
+  width: 35px;
+  height: 35px;
+  border-radius: 20px;
+  padding-right: 5px;
+  padding-left: 12px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  color: white;
+  margin-top: 1;
+}
+
+.teal {
+  background-color: #14b8a6;
+  width: 35px;
+  height: 35px;
+  border-radius: 20px;
+  padding-right: 5px;
+  padding-left: 12px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  color: white;
+  margin-top: 1;
+}
+
+.red {
+  background-color: #b91c1c;
+  width: 35px;
+  height: 35px;
+  border-radius: 20px;
+  padding-right: 5px;
+  padding-left: 12px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  color: white;
+  margin-top: 1;
+}
+
+.light-blue {
+  background-color: #0ea5e9;
+  width: 35px;
+  height: 35px;
+  border-radius: 20px;
+  padding-right: 5px;
+  padding-left: 12px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  color: white;
+
+  margin-top: 1;
+}
+.time {
+  color: #94a3b8;
+  margin-top: 1;
+}
+.comment {
+  color: #64748b;
+  margin-left: 50;
+}
+.unlike-txt {
+  color: #7e858e;
+  margin-bottom: 20px;
+}
+.like-txt {
+  color: #0284c7;
+  margin-bottom: 20px;
+}
+.like {
+  height: 25px;
+  width: 25px;
+  margin-top: 0;
+}
+.like-img-row {
+  display: flex;
+  flex-direction: row;
+  padding: 0;
+  margin: 0;
+}
+.like-div {
+  display: flex;
+  justify-content: space-between;
+}
+.flex-row {
+  display: flex;
+}
+.name {
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-top: 0;
+  color: #334155;
+}
+.dlt {
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+}
+.like-btn {
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+  margin: 0;
+}
